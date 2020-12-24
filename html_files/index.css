@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.content-wrapper{
+    width: 100%;
+    max-width: 1336px;
+    margin-left: auto;
+}
+.login{
+    font-family: Arial;
+    font-size: 16px;
+    width: 100%;
+    max-width: 500px;
+}
+.login label {
+    font-size: 22px;
+    font-weight: bold;
+}
+.login{
+    margin: 0 auto;
+}
+.login form{
+    display: block;
+}
+input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}

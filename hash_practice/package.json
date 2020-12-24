@@ -1,0 +1,17 @@
+{
+  "name": "hash_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  },
+  "scripts": {
+    "test": "node hashing.js",
+    "app": "node app.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
